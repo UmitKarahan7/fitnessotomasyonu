@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u00DCmit\\Desktop\\fitnessotomasyonu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C2ABC4C-0EE0-4470-8446-DC0CDB2C2439}|fitnessotomasyonu\\fitnessotomasyonu.csproj|c:\\users\\\u00FCmit\\desktop\\fitnessotomasyonu\\fitnessotomasyonu\\randevu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C2ABC4C-0EE0-4470-8446-DC0CDB2C2439}|fitnessotomasyonu\\fitnessotomasyonu.csproj|solutionrelative:fitnessotomasyonu\\randevu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C2ABC4C-0EE0-4470-8446-DC0CDB2C2439}|fitnessotomasyonu\\fitnessotomasyonu.csproj|C:\\Users\\\u00DCmit\\Desktop\\fitnessotomasyonu\\fitnessotomasyonu\\adminformu1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C2ABC4C-0EE0-4470-8446-DC0CDB2C2439}|fitnessotomasyonu\\fitnessotomasyonu.csproj|solutionrelative:fitnessotomasyonu\\adminformu1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C2ABC4C-0EE0-4470-8446-DC0CDB2C2439}|fitnessotomasyonu\\fitnessotomasyonu.csproj|C:\\Users\\\u00DCmit\\Desktop\\fitnessotomasyonu\\fitnessotomasyonu\\egitmenekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C2ABC4C-0EE0-4470-8446-DC0CDB2C2439}|fitnessotomasyonu\\fitnessotomasyonu.csproj|solutionrelative:fitnessotomasyonu\\egitmenekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C2ABC4C-0EE0-4470-8446-DC0CDB2C2439}|fitnessotomasyonu\\fitnessotomasyonu.csproj|C:\\Users\\\u00DCmit\\Desktop\\fitnessotomasyonu\\fitnessotomasyonu\\egitmenekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C2ABC4C-0EE0-4470-8446-DC0CDB2C2439}|fitnessotomasyonu\\fitnessotomasyonu.csproj|solutionrelative:fitnessotomasyonu\\egitmenekle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C2ABC4C-0EE0-4470-8446-DC0CDB2C2439}|fitnessotomasyonu\\fitnessotomasyonu.csproj|C:\\Users\\\u00DCmit\\Desktop\\fitnessotomasyonu\\fitnessotomasyonu\\anaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C2ABC4C-0EE0-4470-8446-DC0CDB2C2439}|fitnessotomasyonu\\fitnessotomasyonu.csproj|solutionrelative:fitnessotomasyonu\\anaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C2ABC4C-0EE0-4470-8446-DC0CDB2C2439}|fitnessotomasyonu\\fitnessotomasyonu.csproj|C:\\Users\\\u00DCmit\\Desktop\\fitnessotomasyonu\\fitnessotomasyonu\\egitmenekle.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C2ABC4C-0EE0-4470-8446-DC0CDB2C2439}|fitnessotomasyonu\\fitnessotomasyonu.csproj|solutionrelative:fitnessotomasyonu\\egitmenekle.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C2ABC4C-0EE0-4470-8446-DC0CDB2C2439}|fitnessotomasyonu\\fitnessotomasyonu.csproj|C:\\Users\\\u00DCmit\\Desktop\\fitnessotomasyonu\\fitnessotomasyonu\\adminformu1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C2ABC4C-0EE0-4470-8446-DC0CDB2C2439}|fitnessotomasyonu\\fitnessotomasyonu.csproj|solutionrelative:fitnessotomasyonu\\adminformu1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C2ABC4C-0EE0-4470-8446-DC0CDB2C2439}|fitnessotomasyonu\\fitnessotomasyonu.csproj|C:\\Users\\\u00DCmit\\Desktop\\fitnessotomasyonu\\fitnessotomasyonu\\giriskayitol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C2ABC4C-0EE0-4470-8446-DC0CDB2C2439}|fitnessotomasyonu\\fitnessotomasyonu.csproj|solutionrelative:fitnessotomasyonu\\giriskayitol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C2ABC4C-0EE0-4470-8446-DC0CDB2C2439}|fitnessotomasyonu\\fitnessotomasyonu.csproj|C:\\Users\\\u00DCmit\\Desktop\\fitnessotomasyonu\\fitnessotomasyonu\\giriskayitol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9C2ABC4C-0EE0-4470-8446-DC0CDB2C2439}|fitnessotomasyonu\\fitnessotomasyonu.csproj|solutionrelative:fitnessotomasyonu\\giriskayitol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C2ABC4C-0EE0-4470-8446-DC0CDB2C2439}|fitnessotomasyonu\\fitnessotomasyonu.csproj|C:\\Users\\\u00DCmit\\Desktop\\fitnessotomasyonu\\fitnessotomasyonu\\anaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C2ABC4C-0EE0-4470-8446-DC0CDB2C2439}|fitnessotomasyonu\\fitnessotomasyonu.csproj|solutionrelative:fitnessotomasyonu\\anaform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Randevu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\\u00DCmit\\Desktop\\fitnessotomasyonu\\fitnessotomasyonu\\Randevu.cs",
+              "RelativeDocumentMoniker": "fitnessotomasyonu\\Randevu.cs",
+              "ToolTip": "C:\\Users\\\u00DCmit\\Desktop\\fitnessotomasyonu\\fitnessotomasyonu\\Randevu.cs [Design]",
+              "RelativeToolTip": "fitnessotomasyonu\\Randevu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T15:52:28.465Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "egitmenekle.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\\u00DCmit\\Desktop\\fitnessotomasyonu\\fitnessotomasyonu\\egitmenekle.Designer.cs",
+              "RelativeDocumentMoniker": "fitnessotomasyonu\\egitmenekle.Designer.cs",
+              "ToolTip": "C:\\Users\\\u00DCmit\\Desktop\\fitnessotomasyonu\\fitnessotomasyonu\\egitmenekle.Designer.cs",
+              "RelativeToolTip": "fitnessotomasyonu\\egitmenekle.Designer.cs",
+              "ViewState": "AgIAANwAAAAAAAAAAAAtwO0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T15:35:42.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GirisKayitOl.cs",
+              "DocumentMoniker": "C:\\Users\\\u00DCmit\\Desktop\\fitnessotomasyonu\\fitnessotomasyonu\\GirisKayitOl.cs",
+              "RelativeDocumentMoniker": "fitnessotomasyonu\\GirisKayitOl.cs",
+              "ToolTip": "C:\\Users\\\u00DCmit\\Desktop\\fitnessotomasyonu\\fitnessotomasyonu\\GirisKayitOl.cs",
+              "RelativeToolTip": "fitnessotomasyonu\\GirisKayitOl.cs",
+              "ViewState": "AgIAAD4BAAAAAAAAAAAowF4BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T11:56:28.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GirisKayitOl.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\\u00DCmit\\Desktop\\fitnessotomasyonu\\fitnessotomasyonu\\GirisKayitOl.cs",
+              "RelativeDocumentMoniker": "fitnessotomasyonu\\GirisKayitOl.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\source\\repos\\fitnessotomasyonu\\fitnessotomasyonu\\GirisKayitOl.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\MONSTER\\source\\repos\\fitnessotomasyonu\\fitnessotomasyonu\\GirisKayitOl.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T11:56:21.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AnaForm.cs",
+              "DocumentMoniker": "C:\\Users\\\u00DCmit\\Desktop\\fitnessotomasyonu\\fitnessotomasyonu\\AnaForm.cs",
+              "RelativeDocumentMoniker": "fitnessotomasyonu\\AnaForm.cs",
+              "ToolTip": "C:\\Users\\\u00DCmit\\Desktop\\fitnessotomasyonu\\fitnessotomasyonu\\AnaForm.cs",
+              "RelativeToolTip": "fitnessotomasyonu\\AnaForm.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T11:11:38.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AnaForm.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\\u00DCmit\\Desktop\\fitnessotomasyonu\\fitnessotomasyonu\\AnaForm.cs",
+              "RelativeDocumentMoniker": "fitnessotomasyonu\\AnaForm.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\source\\repos\\fitnessotomasyonu\\fitnessotomasyonu\\AnaForm.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\MONSTER\\source\\repos\\fitnessotomasyonu\\fitnessotomasyonu\\AnaForm.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T11:09:28.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "egitmenekle.cs",
+              "DocumentMoniker": "C:\\Users\\\u00DCmit\\Desktop\\fitnessotomasyonu\\fitnessotomasyonu\\egitmenekle.cs",
+              "RelativeDocumentMoniker": "fitnessotomasyonu\\egitmenekle.cs",
+              "ToolTip": "C:\\Users\\\u00DCmit\\Desktop\\fitnessotomasyonu\\fitnessotomasyonu\\egitmenekle.cs",
+              "RelativeToolTip": "fitnessotomasyonu\\egitmenekle.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAYwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T09:56:07.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "egitmenekle.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\\u00DCmit\\Desktop\\fitnessotomasyonu\\fitnessotomasyonu\\egitmenekle.cs",
+              "RelativeDocumentMoniker": "fitnessotomasyonu\\egitmenekle.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\source\\repos\\fitnessotomasyonu\\fitnessotomasyonu\\egitmenekle.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\MONSTER\\source\\repos\\fitnessotomasyonu\\fitnessotomasyonu\\egitmenekle.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T09:48:02.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminFormu1.cs",
+              "DocumentMoniker": "C:\\Users\\\u00DCmit\\Desktop\\fitnessotomasyonu\\fitnessotomasyonu\\AdminFormu1.cs",
+              "RelativeDocumentMoniker": "fitnessotomasyonu\\AdminFormu1.cs",
+              "ToolTip": "C:\\Users\\\u00DCmit\\Desktop\\fitnessotomasyonu\\fitnessotomasyonu\\AdminFormu1.cs",
+              "RelativeToolTip": "fitnessotomasyonu\\AdminFormu1.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T09:48:39.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminFormu1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\\u00DCmit\\Desktop\\fitnessotomasyonu\\fitnessotomasyonu\\AdminFormu1.cs",
+              "RelativeDocumentMoniker": "fitnessotomasyonu\\AdminFormu1.cs",
+              "ToolTip": "C:\\Users\\MONSTER\\source\\repos\\fitnessotomasyonu\\fitnessotomasyonu\\AdminFormu1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "..\\..\\..\\MONSTER\\source\\repos\\fitnessotomasyonu\\fitnessotomasyonu\\AdminFormu1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T09:48:09.891Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
